@@ -1,0 +1,8 @@
+# Ignore all files with .env in their names
+**/*.env
+
+# Ignore all files with video in their names
+**/*video/
+
+# Ignore all files with image in their names
+**/*image/
